@@ -1,5 +1,5 @@
 let galleryData = [];
-let activeCategory = 'pics';
+let activeCategory = 'all';
 let searchQuery = '';
 
 const $ = (sel) => document.querySelector(sel);
